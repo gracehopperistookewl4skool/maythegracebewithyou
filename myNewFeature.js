@@ -1,1 +1,1 @@
-console.log('WOW JS')
+console.log("YAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY JS");
